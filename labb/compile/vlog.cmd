@@ -1,0 +1,1 @@
+-o C:/My_Designs/labb/labb/compile -lc C:/My_Designs/labb/library.cfg -fl C:/My_Designs/labb/labb/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -epr C:/My_Designs/labb/labb/compile/labb.epr -O2 -sve -msg 5 -sv2k12 -work labb C:/My_Designs/labb/labb/src/tb_operation.sv 

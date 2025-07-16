@@ -1,0 +1,307 @@
+timestamp=1705862211802
+
+[~A]
+C:/My_Designs/labb/labb/src/cfg.sv=0*763111*763441
+C:/My_Designs/labb/labb/src/driver.sv=0*765726*766299
+C:/My_Designs/labb/labb/src/dut.sv=0*703591*704545
+C:/My_Designs/labb/labb/src/dut_error.sv=0*800545*801569
+C:/My_Designs/labb/labb/src/env.sv=0*768769*769515
+C:/My_Designs/labb/labb/src/generator.sv=0*771838*772494
+C:/My_Designs/labb/labb/src/interface.sv=0*773649*774033
+C:/My_Designs/labb/labb/src/monitor.sv=0*776311*776869
+C:/My_Designs/labb/labb/src/operation.sv=0*701955*702403
+C:/My_Designs/labb/labb/src/scoreboard.sv=0*779357*780463
+C:/My_Designs/labb/labb/src/tb_operation.sv=0*825880*828812
+C:/My_Designs/labb/labb/src/test.sv=0*796365*797016
+C:/My_Designs/labb/labb/src/transaction.sv=0*798854*799352
+CUSP_Counter=7
+LastVerilogToplevel=tb_operation
+ModifyID=267
+Version=74
+
+[~MFT]
+0=33|0labb.mgf|828812|465153
+1=24|1labb.mgf|4040991|3893425
+3=48|3labb.mgf|4272264|4105269
+
+[$root]
+A/$root=22|||1*3974392
+BinW64/$root=3*4197999
+SLP=3*4198114
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216b088fe84d41e63d396c8254995b851ea
+
+[UnitScopePackage_1]
+A/UnitScopePackage_1=22|../src/operation.sv|0|1*86422
+BinW64/UnitScopePackage_1=3*88351
+CUSP=0
+R=../src/operation.sv|0
+SLP=3*88936
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e4dc7b1d77717ad53c996fab9a47702ebe8e06d857ce1a1043ea38039cd6ca23e
+
+[UnitScopePackage_2]
+A/UnitScopePackage_2=22|../src/operation.sv|0|1*1657123
+BinW64/UnitScopePackage_2=3*1730015
+CUSP=0
+R=../src/operation.sv|0
+SLP=3*1730600
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53eb41e615236959a14b894b0ba59bdfaea96a6be24f3922c9db8839878c861ed35
+
+[UnitScopePackage_3]
+A/UnitScopePackage_3=22|../src/operation.sv|0|1*2426422
+BinW64/UnitScopePackage_3=3*2550703
+CUSP=0
+R=../src/operation.sv|0
+SLP=3*2551288
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e48bfaea4465a6561bdea4985d24c46f8ebfa3d809ac27fb9bb1e5f89344996e6
+
+[UnitScopePackage_4]
+A/UnitScopePackage_4=22|../src/operation.sv|0|1*3182088
+BinW64/UnitScopePackage_4=3*3359256
+CUSP=0
+R=../src/operation.sv|0
+SLP=3*3359932
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e9fcabcddeb2e4ce4ca5d7508e213188c3d9aa5a4ee7aa2f87b4ed08ee0369233
+
+[UnitScopePackage_5]
+A/UnitScopePackage_5=22|../src/operation.sv|0|1*3261973
+BinW64/UnitScopePackage_5=3*3443059
+CUSP=0
+R=../src/operation.sv|0
+SLP=3*3443644
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e2eb10ee5ac10bebe8e406c9b3a62623b92d22b08ce8deb42fa586ab4375b4e57
+
+[UnitScopePackage_6]
+A/UnitScopePackage_6=22|../src/operation.sv|0|1*3263924
+BinW64/UnitScopePackage_6=3*3444205
+CUSP=0
+R=../src/operation.sv|0
+SLP=3*3444790
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e83f780e33cc48e0917bf64d32b1b39fb8718d2ef4cc8f32824ea4968f41930fb
+
+[UnitScopePackage_7]
+A/UnitScopePackage_7=22|../src/operation.sv|0|1*3428214
+BinW64/UnitScopePackage_7=3*3616872
+CUSP=0
+R=../src/operation.sv|0
+SLP=3*3617457
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53eb13ed4abf3b032444233340a25b963b6435b2c662312fb80bae1b6ffb079db91
+
+[\std::mailbox#(tb_operation::transaction) \]
+A/\std::mailbox#(tb_operation::transaction) \=22|||1*3992377
+AICT=436700726076928
+BinW64/\std::mailbox#(tb_operation::transaction) \=3*4214734
+CLI=0*818556
+SLP=3*4216618
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|1e719b6ecd2368499b5e157e46e8cd703f4e0a8df2dadb8075d9052dac5fbdb026dc90d074c92700ddf6d0875c883daa6bc030aa46c6814ebaa6feac26e40143054bf8268936c79a95812a75b0413d7d
+
+[\std::mailbox#(transaction) \]
+A/\std::mailbox#(transaction) \=22|||1*3885805
+AICT=436700615832576
+BinW64/\std::mailbox#(transaction) \=3*4104747
+CLI=0*795957
+SLP=3*4106626
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|1e719b6ecd2368499b5e157e46e8cd700c31c31c31c4a3840d1d4de4df34dafee17464f1a94737b4bd0b2895bf24c49808bd602b9aece3b174da371cf45e27b8
+
+[\tb_operation cfg \]
+A/\tb_operation cfg \=22|../src/cfg.sv|1|1*3979100
+AICT=436700726071040
+BinW64/\tb_operation cfg \=3*4200119
+CLI=0*817111
+R=../src/cfg.sv|1
+SLP=3*4203724
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe4221faeb045ec1dc4da303c3d26e2e9c1a66ef11501f8aa65601033a71a90455f5c
+
+[\tb_operation driver \]
+A/\tb_operation driver \=22|../src/driver.sv|1|1*3996412
+AICT=436700726076416
+BinW64/\tb_operation driver \=3*4217865
+CLI=0*819622
+R=../src/driver.sv|1
+SLP=3*4222243
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe4227e6832268b541788a79ab093d9092f28f073cf3cc0117033ff64347107103b76
+
+[\tb_operation env \]
+A/\tb_operation env \=22|../src/env.sv|1|1*4028937
+AICT=436700726080000
+BinW64/\tb_operation env \=3*4255250
+CLI=0*824256
+R=../src/env.sv|1
+SLP=3*4261598
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe422ec02e0c4277f25b2ca7d9f2ef31fafdfb3dc77d5dabd1a85940d2b1524b2dbbd
+
+[\tb_operation generator \]
+A/\tb_operation generator \=22|../src/generator.sv|1|1*4011620
+AICT=436700726078976
+BinW64/\tb_operation generator \=3*4234634
+CLI=0*821798
+R=../src/generator.sv|1
+SLP=3*4239131
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe422d5643890adfc462505a86b7a7cee894b08e7cc570a6a09f89b025638d805a1ef
+
+[\tb_operation monitor \]
+A/\tb_operation monitor \=22|../src/monitor.sv|1|1*4004010
+AICT=436700726078464
+BinW64/\tb_operation monitor \=3*4226209
+CLI=0*820697
+R=../src/monitor.sv|1
+SLP=3*4230573
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe422c1307888dc2cab532af59bc7cccd7dc326527262ddaa47cb266f3a3c4d9b973aa60d549d7df5cbb2969ca88fc4c12a29
+
+[\tb_operation scoreboard \]
+A/\tb_operation scoreboard \=22|../src/scoreboard.sv|1|1*4020020
+AICT=436700726079488
+BinW64/\tb_operation scoreboard \=3*4243934
+CLI=0*822983
+R=../src/scoreboard.sv|1
+SLP=3*4249938
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe422bdee9bd0696bf38f34ac6c9f85884cd31a616207ec6fc5405dd3755177d950f3aa8e09b32eb8882582c9c6611f870bcf
+
+[\tb_operation test \]
+A/\tb_operation test \=22|../src/test.sv|1|1*4040991
+AICT=436700726080768
+BinW64/\tb_operation test \=3*4267462
+CLI=0*825430
+R=../src/test.sv|1
+SLP=3*4272264
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe422f46a223e074bc73a4c7d06dca6c3fd10f0495b448f5ce88d8c4f61e951d5d7b0
+
+[\tb_operation transaction \]
+A/\tb_operation transaction \=22|../src/transaction.sv|1|1*3985381
+AICT=436700726072064
+BinW64/\tb_operation transaction \=3*4207426
+CLI=0*818101
+R=../src/transaction.sv|1
+SLP=3*4211040
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f85d40d42136677c43753ad034dfe422e0f105c8184d7b9e3de66c8699f342b326527262ddaa47cb266f3a3c4d9b973a41c50aa654148639def29afcb2b64773
+
+[cfg]
+A/cfg=22|../src/cfg.sv|1|1*3734598
+AICT=436699993405440
+BinW64/cfg=3*3940221
+CLI=0*762747
+R=../src/cfg.sv|1
+SLP=3*3943814
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|90d2a4758d6919b9e257b7d177ea648ba9ff65b6518601648f0e6a8b6d393a3d
+
+[driver]
+A/driver=22|../src/driver.sv|1|1*3744626
+AICT=436700095666432
+BinW64/driver=3*3950759
+CLI=0*765303
+R=../src/driver.sv|1
+SLP=3*3955341
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|32a8809e0c82d5e52151c5a0d1b53825d612dc9cce69377d21ebb032730ca8d5
+
+[env]
+A/env=22|../src/env.sv|1|1*3755687
+AICT=436700155380480
+BinW64/env=3*3962799
+CLI=0*768239
+R=../src/env.sv|1
+SLP=3*3969338
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|530a9ed10b3d0de811daef6ec695adc6d126b0b68f6ce1d057e4a6b7bf868a4b
+
+[generator]
+A/generator=22|../src/generator.sv|1|1*3770475
+AICT=436700290431488
+BinW64/generator=3*3978626
+CLI=0*771403
+R=../src/generator.sv|1
+SLP=3*3983323
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|868a022443c89e9f5ff3df3152251b4d1393fddf47876bc361e7a33e2c7578efc05bcc17a4da98fc2a604a35caf9c0d0
+
+[monitor]
+A/monitor=22|../src/monitor.sv|1|1*3784512
+AICT=436700427456000
+BinW64/monitor=3*3992147
+CLI=0*775895
+R=../src/monitor.sv|1
+SLP=3*3996719
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|95ff40020058ee65c420aa5e779914f826527262ddaa47cb266f3a3c4d9b973a41fcf741c10b02bcdbfa2eb2d18d8311
+
+[opDUT]
+A/opDUT=22|../src/dut.sv|3|1*3430181
+BinW64/opDUT=3*3618018
+R=../src/dut.sv|3
+SLP=3*3619628
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e38f2ea011c1306cf44f88255e7c06847fb2fc0363e514bf83b57d423a1bd2c6
+
+[opDUT_e]
+A/opDUT_e=22|../src/dut_error.sv|3|1*3896934
+BinW64/opDUT_e=3*4115851
+R=../src/dut_error.sv|3
+SLP=3*4117593
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|19581fff4243ca74f32bc304fb962c7a26527262ddaa47cb266f3a3c4d9b973a55c054fda256475bfd5846e119ad0ab3
+
+[scoreboard]
+A/scoreboard=22|../src/scoreboard.sv|1|1*3795637
+AICT=436700535125248
+BinW64/scoreboard=3*4004260
+CLI=0*778827
+R=../src/scoreboard.sv|1
+SLP=3*4010464
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|cb8490c56fdb537d2557a00a58b17e11d8626a3683e7935cfb3d638038a68041af75d7b8e581e5419f8a259746b46445
+
+[sum_if]
+A/sum_if=22|../src/interface.sv|2|1*3974766
+BinW64/sum_if=3*4198182
+R=../src/interface.sv|2
+SLP=3*4198421
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|bd3eb4556c4b952cd42b6dbd9c566d34326eb6edf747fab683c3b53f47473e46
+
+[tb_operation]
+A/tb_operation=22|../src/tb_operation.sv|3|1*3976551
+BinW64/tb_operation=3*4198516
+R=../src/tb_operation.sv|3
+SLP=3*4199437
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b42951fb44d8a7f8608adb4d982e60182bbde948bd48453f833f5cb53b936705f36bce08f6906b2b69fd46c9a89be86b
+
+[test]
+A/test=22|../src/test.sv|1|1*3878671
+AICT=436700615811072
+BinW64/test=3*4095001
+CLI=0*795538
+R=../src/test.sv|1
+SLP=3*4099992
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e1f76c805e2c0a9a3d36a8be8882f206aba1b554f6dd6d360dcdfb8385161c39
+
+[transaction]
+A/transaction=22|../src/transaction.sv|1|1*3889937
+AICT=436700635084288
+BinW64/transaction=3*4107981
+CLI=0*798430
+R=../src/transaction.sv|1
+SLP=3*4111791
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e7c58dcfddb8de4c8440dd51a2d497d1fcb4642d0ac36a420143c757ad4eab6aaf45faccfea2f2a19a248284490a1814
+
+[~U]
+$root=12|0*815699|
+UnitScopePackage_1=12|0*19778||0x40200000
+UnitScopePackage_2=12|0*335327||0x40200000
+UnitScopePackage_3=12|0*497998||0x40200000
+UnitScopePackage_4=12|0*644684||0x40200000
+UnitScopePackage_5=12|0*662092||0x40200000
+UnitScopePackage_6=12|0*663806||0x40200000
+UnitScopePackage_7=12|0*701537||0x40200000
+\std::mailbox#(tb_operation::transaction) \=12|||0x10030000
+\std::mailbox#(transaction) \=12|||0x10030000
+\tb_operation cfg \=12|0*816558||0x30000
+\tb_operation driver \=12|0*818994||0x30000
+\tb_operation env \=12|0*823549||0x30000
+\tb_operation generator \=12|0*821145||0x30000
+\tb_operation monitor \=12|0*820076||0x30000
+\tb_operation scoreboard \=12|0*822264||0x30000
+\tb_operation test \=12|0*824819||0x30000
+\tb_operation transaction \=12|0*817505||0x30000
+cfg=12|0*762222||0x30000
+driver=12|0*764706||0x30000
+env=12|0*767567||0x30000
+generator=12|0*770780||0x30000
+monitor=12|0*775304||0x30000
+opDUT=12|0*703250|
+opDUT_e=12|0*800201|
+scoreboard=12|0*778138||0x30000
+sum_if=12|0*816041||0x80000
+tb_operation=12|0*816350||0x10
+test=12|0*794958||0x30000
+transaction=12|0*797858||0x30000

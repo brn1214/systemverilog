@@ -1,0 +1,48 @@
+Active-HDL 13.0.376.8320 2024-01-21 21:36:54
+
+Elaboration top modules:
+Verilog Module                tb_operation
+SystemVerilog Class           *base_class
+SystemVerilog Class           \std::mailbox#(tb_operation::transaction) \
+
+
+---------------------------------------------------------------------------------------------------------------
+Verilog Module                              | Library | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------------
+tb_operation                                | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+opDUT                                       | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+---------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------
+SystemVerilog Interface                     | Library | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------------
+sum_if                                      | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+---------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------
+SystemVerilog Class                         | Library | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------------
+\tb_operation test \                        | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+*base_class                                 | vl      |      | 13.0.376.8320 (Windows64) | <unavailable>
+\tb_operation cfg \                         | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+\tb_operation env \                         | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+\tb_operation generator \                   | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+\tb_operation driver \                      | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+\tb_operation monitor \                     | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+\tb_operation scoreboard \                  | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+\std::mailbox#(tb_operation::transaction) \ | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+\tb_operation transaction \                 | labb    |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+---------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------
+Library                                     | Comment
+---------------------------------------------------------------------------------------------------------------
+labb                                        | None
+vl                                          | Standard Verilog library
+---------------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+tb_operation tb_operation
+
+
+The performance of simulation is reduced. Version Student Edition

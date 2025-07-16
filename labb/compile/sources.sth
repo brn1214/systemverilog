@@ -1,0 +1,14 @@
+[Files List]
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/standard.vhd=S
+C:\My_Designs\labb\labb/src/transaction.sv=S
+C:\My_Designs\labb\labb/src/scoreboard.sv=S
+C:\My_Designs\labb\labb/src/monitor.sv=S
+C:\My_Designs\labb\labb/src/driver.sv=S
+C:\My_Designs\labb\labb/src/generator.sv=S
+C:\My_Designs\labb\labb/src/env.sv=S
+C:\My_Designs\labb\labb/src/cfg.sv=S
+C:\My_Designs\labb\labb/src/test.sv=S
+C:\My_Designs\labb\labb/src/dut.sv=S
+C:\My_Designs\labb\labb/src/operation.sv=S
+C:\My_Designs\labb\labb/src/interface.sv=S
+C:\My_Designs\labb\labb/src/tb_operation.sv=S

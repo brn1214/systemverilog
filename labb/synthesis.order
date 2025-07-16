@@ -1,0 +1,13 @@
+i<>.\src\cfg.sv
+i<>.\src\driver.sv
+i<>.\src\dut.sv
+i<>.\src\env.sv
+i<>.\src\generator.sv
+i<>.\src\interface.sv
+i<>.\src\monitor.sv
+i<>.\src\operation.sv
+i<>.\src\scoreboard.sv
+i<>.\src\tb_operation.sv
+i<>.\src\test.sv
+i<>.\src\transaction.sv
+i<>.\src\dut_error.sv

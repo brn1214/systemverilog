@@ -1,0 +1,13 @@
+.\src\cfg.sv
+.\src\driver.sv
+.\src\dut.sv
+.\src\env.sv
+.\src\generator.sv
+.\src\interface.sv
+.\src\monitor.sv
+.\src\operation.sv
+.\src\scoreboard.sv
+.\src\tb_operation.sv
+.\src\test.sv
+.\src\transaction.sv
+.\src\dut_error.sv

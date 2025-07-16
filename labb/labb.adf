@@ -1,0 +1,50 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=labb
+[Library]
+labb=.\labb\labb.lib
+[$LibMap$]
+labb=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/cfg.sv=-1
+/driver.sv=-1
+/dut.sv=-1
+/env.sv=-1
+/generator.sv=-1
+/interface.sv=-1
+/monitor.sv=-1
+/operation.sv=-1
+/scoreboard.sv=-1
+/tb_operation.sv=-1
+/test.sv=-1
+/transaction.sv=-1
+/dut_error.sv=-1
+[Files.Data]
+.\src\cfg.sv=SystemVerilog Source Code
+.\src\driver.sv=SystemVerilog Source Code
+.\src\dut.sv=SystemVerilog Source Code
+.\src\env.sv=SystemVerilog Source Code
+.\src\generator.sv=SystemVerilog Source Code
+.\src\interface.sv=SystemVerilog Source Code
+.\src\monitor.sv=SystemVerilog Source Code
+.\src\operation.sv=SystemVerilog Source Code
+.\src\scoreboard.sv=SystemVerilog Source Code
+.\src\tb_operation.sv=SystemVerilog Source Code
+.\src\test.sv=SystemVerilog Source Code
+.\src\transaction.sv=SystemVerilog Source Code
+.\src\dut_error.sv=SystemVerilog Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

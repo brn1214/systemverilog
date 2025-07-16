@@ -1,0 +1,10 @@
+"../src/env.sv"	1
+"../src/monitor.sv"	1
+"../src/tb_operation.sv"	1
+"../src/interface.sv"	1
+"../src/cfg.sv"	1
+"../src/driver.sv"	1
+"../src/transaction.sv"	1
+"../src/generator.sv"	1
+"../src/scoreboard.sv"	1
+"../src/test.sv"	1
